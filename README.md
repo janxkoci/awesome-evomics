@@ -19,6 +19,6 @@ awesome list of evolutionary genomics resources
 
 ## learning
 
-- speciationgenomics.github.io - tutorials covering around 70% of my PhD, too bad I found the page after my defense
-- evomics.org - portal with materials from years of summer schools on evolutionary genomics
-- theg-cat.com - genetic theory in nice digestible articles
+- https://speciationgenomics.github.io - tutorials covering around 70% of my PhD, too bad I found the page after my defense
+- https://evomics.org - portal with materials from years of summer schools on evolutionary genomics
+- https://theg-cat.com - genetic theory in nice digestible articles
