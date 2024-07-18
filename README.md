@@ -22,3 +22,8 @@ awesome list of evolutionary genomics resources
 - https://speciationgenomics.github.io - tutorials covering around 70% of my PhD, too bad I found the page after my defense
 - https://evomics.org - portal with materials from years of summer schools on evolutionary genomics
 - https://theg-cat.com - genetic theory in nice digestible articles
+
+## tools
+
+- https://methodspopgen.com/ - overview of software tools for population and evolutionary genomics, described in a [review paper](https://onlinelibrary.wiley.com/doi/10.1111/mec.15989)
+
