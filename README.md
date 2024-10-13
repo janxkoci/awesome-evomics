@@ -14,7 +14,7 @@ awesome list of evolutionary genomics resources
 
 ### zoology
 
-- https://www.ultraconserved.org/ - resources for ultraconserved elements (UCEs), a useful set of genome-wide markers, especially for non-model taxa without reference genomes. The combination of conserved sequences with variable flanking regions offers markers evolution at different levels, from populations to phylogenomics at higher taxonomic ranks.
+- https://www.ultraconserved.org/ - resources for ultraconserved elements (UCEs), a useful set of genome-wide markers, especially for non-model taxa without reference genomes. The combination of conserved sequences with variable flanking regions offers markers to study evolution at different levels, from populations to phylogenomics at higher taxonomic ranks.
 
 ### parasites
 
