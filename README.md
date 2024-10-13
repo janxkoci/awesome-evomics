@@ -12,7 +12,11 @@ awesome list of evolutionary genomics resources
   - http://cdna.eva.mpg.de/neandertal/ - direct downloads
 - [Simons Genome Diversity Project (SGDP)](https://reichdata.hms.harvard.edu/pub/datasets/sgdp/)
 
-### other taxa
+### zoology
+
+- https://www.ultraconserved.org/ - resources for ultraconserved elements (UCEs), a useful set of genome-wide markers, especially for non-model taxa without reference genomes. The combination of conserved sequences with variable flanking regions offers markers evolution at different levels, from populations to phylogenomics at higher taxonomic ranks.
+
+### parasites
 
 - https://veupathdb.org/veupathdb/app - VEuPath database of eukaryotic pathogen, vector and host informatics
 - https://tritrypdb.org/tritrypdb/app - TriTryp database of trypanosomatid parasites
