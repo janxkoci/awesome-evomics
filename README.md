@@ -22,6 +22,8 @@ awesome list of evolutionary genomics resources
 - https://tritrypdb.org/tritrypdb/app - TriTryp database of trypanosomatid parasites
 
 ## learning
+Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and data science.
+
 ### genomics
 
 - https://speciationgenomics.github.io - tutorials covering around 70% of my PhD, too bad I found the page after my defense
@@ -32,23 +34,35 @@ awesome list of evolutionary genomics resources
 
 - https://vincebuffalo.com/book/ - Bioinformatics Data Skills (by Vince Buffalo)
 - https://jeroenjanssens.com/dsatcl/ - Data Science at the Command Line (by Jeroen Janssens)
+- https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line - Ad Hoc Data Analysis From The Unix Command Line (at Wikibooks)
 
 ## software tools
 ### population & evolutionary genomics
 
 - https://methodspopgen.com/ - overview of software tools for population and evolutionary genomics, described in a [review paper](https://onlinelibrary.wiley.com/doi/10.1111/mec.15989)
-- https://www.cog-genomics.org/plink2/ - PLINK toolkit for population genomics and GWAS (2nd generation)
+- https://www.cog-genomics.org/plink2/ - PLINK2 toolkit for population genomics and GWAS
+- https://github.com/DReichLab/EIG - EIGENSOFT tools for analysis of populations, including population stratification and SmartPCA
+- https://github.com/DReichLab/AdmixTools - the original ADMIXTOOLS
+- https://uqrmaie1.github.io/admixtools/index.html - ADMIXTOOLS2 is an R package with reimplementation of the original ADMIXTOOLS, with higher performance and easy scripting interface, plus a GUI webapp
 
-### bioinformatics
+### simulations
 
-- https://www.htslib.org/ - HTSlib + Samtools (for SAM / BAM alignments)
-- https://samtools.github.io/bcftools/ - Bcftools (for variant data in VCF format)
+- https://tskit.dev/msprime/docs/stable/intro.html - msprime coalescent simulator
+- https://messerlab.org/slim/ - SLiM simulator for spatial models of evolution
+- https://www.slendr.net/ - R interface to msprime and SLiM simulators, with support for spatial and non-spatial models
+- https://github.com/popsim-consortium/stdpopsim - library of standard population genetic simulation models
+
+### bioinformatic formats
+
+- https://www.htslib.org/ - HTSlib + Samtools (for SAM/BAM alignments)
+- https://samtools.github.io/bcftools/ - Bcftools (for variant data in VCF/BCF formats)
 - https://bioinf.shenwei.me/seqkit/ - SeqKit (for efficient manipulation of FASTA/FASTQ formats)
 - https://github.com/lh3/seqtk - SeqTK (for efficient manipulation of FASTA/FASTQ formats)
 - https://github.com/lh3/bioawk - extension of the AWK language with support for common bioinformatic formats and compressed data
+- https://seqmagick.readthedocs.io/en/stable/ - Seqmagick is a kickass little utility built in the spirit of imagemagick to expose the file format conversion in Biopython in a convenient way. Instead of having a big mess of scripts, there is one that takes arguments.
 
 ### tabular data
-There is plenty of tabular data in bioinformatics, from the well-known formats to all kinds of metadata. Many tools were developed to process general tabular data.
+There is plenty of tabular data in bioinformatics, from the well-known formats to all kinds of metadata. Many tools were developed to process generic tabular data.
 
 - https://github.com/dbohdan/structured-text-tools - overview of tools for processing structured text
 - https://miller.readthedocs.io/ - Miller is like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed
