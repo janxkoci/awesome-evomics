@@ -11,6 +11,7 @@ awesome list of evolutionary genomics resources
 - https://www.eva.mpg.de/genetics/genome-projects/ - sequencing data for the Neanderthals and Denisovans
   - http://cdna.eva.mpg.de/neandertal/ - direct downloads
 - [Simons Genome Diversity Project (SGDP)](https://reichdata.hms.harvard.edu/pub/datasets/sgdp/)
+- [The Allen Ancient DNA Resource (AADR)](https://doi.org/10.7910/DVN/FFIDCW) - ancient and modern human samples sequenced using the 1240K SNP panel
 
 ### zoology
 
