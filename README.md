@@ -47,7 +47,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 
 ### simulations
 
-- https://tskit.dev/msprime/docs/stable/intro.html - msprime coalescent simulator
+- https://tskit.dev/software/msprime.html - msprime coalescent simulator
 - https://messerlab.org/slim/ - SLiM simulator for spatial models of evolution
 - https://www.slendr.net/ - R interface to msprime and SLiM simulators, with support for spatial and non-spatial models
 - https://github.com/popsim-consortium/stdpopsim - library of standard population genetic simulation models
