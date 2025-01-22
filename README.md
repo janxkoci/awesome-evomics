@@ -37,6 +37,12 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 - https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line - Ad Hoc Data Analysis From The Unix Command Line (at Wikibooks)
 
 ## software tools
+
+### software repositories
+
+- https://bioconda.github.io/ - Bioconda channel of bioinformatic software, for the [conda](https://docs.anaconda.com/miniconda/) / [mamba](https://mamba.readthedocs.io/en/latest/index.html) package managers
+- https://conda-forge.org/ - Conda-forge channel of scientific software, for the conda / mamba package managers
+
 ### population & evolutionary genomics
 
 - https://methodspopgen.com/ - overview of software tools for population and evolutionary genomics, described in a [review paper](https://onlinelibrary.wiley.com/doi/10.1111/mec.15989)
