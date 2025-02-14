@@ -30,6 +30,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 - https://speciationgenomics.github.io - tutorials covering around 70% of my PhD, too bad I found the page after my defense
 - https://evomics.org - portal with materials from years of summer schools on evolutionary genomics
 - https://theg-cat.com - genetic theory in nice digestible articles
+- https://datacarpentry.github.io/shell-genomics/ - Introduction to the Command Line for Genomics (a course by Data Carpentry)
 
 ### data management
 
