@@ -44,7 +44,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 
 - https://bioconda.github.io/ - Bioconda channel of bioinformatic software, for the [conda](https://docs.anaconda.com/miniconda/) / [mamba](https://mamba.readthedocs.io/en/latest/index.html) package managers
 - https://conda-forge.org/ - Conda-forge channel of scientific software, for the conda / mamba package managers
-- https://github.com/brewsci/homebrew-bio - repository of bioinformatic software for the Homebrew / Linuxbrew package managers
+- https://github.com/brewsci/homebrew-bio - repository of bioinformatic software for the [Homebrew / Linuxbrew](https://brew.sh/) package managers
 
 ### population & evolutionary genomics
 
