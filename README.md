@@ -32,7 +32,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 - https://theg-cat.com - genetic theory in nice digestible articles
 - https://datacarpentry.github.io/shell-genomics/ - Introduction to the Command Line for Genomics (a course by Data Carpentry)
 
-### data management
+### data skills
 
 - https://vincebuffalo.com/book/ - Bioinformatics Data Skills (by Vince Buffalo)
 - https://jeroenjanssens.com/dsatcl/ - Data Science at the Command Line (by Jeroen Janssens)
@@ -44,6 +44,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 
 - https://bioconda.github.io/ - Bioconda channel of bioinformatic software, for the [conda](https://docs.anaconda.com/miniconda/) / [mamba](https://mamba.readthedocs.io/en/latest/index.html) package managers
 - https://conda-forge.org/ - Conda-forge channel of scientific software, for the conda / mamba package managers
+- https://github.com/brewsci/homebrew-bio - repository of bioinformatic software for the Homebrew / Linuxbrew package managers
 
 ### population & evolutionary genomics
 
