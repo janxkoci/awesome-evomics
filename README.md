@@ -31,6 +31,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 - https://evomics.org - portal with materials from years of summer schools on evolutionary genomics
 - https://theg-cat.com - genetic theory in nice digestible articles
 - https://datacarpentry.github.io/shell-genomics/ - Introduction to the Command Line for Genomics (a course by Data Carpentry)
+- https://grunwaldlab.github.io/Population_Genetics_in_R/ - Population genetics and genomics in R
 
 ### data skills
 
@@ -45,6 +46,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 - https://bioconda.github.io/ - Bioconda channel of bioinformatic software, for the [conda](https://docs.anaconda.com/miniconda/) / [mamba](https://mamba.readthedocs.io/en/latest/index.html) package managers
 - https://conda-forge.org/ - Conda-forge channel of scientific software, for the conda / mamba package managers
 - https://github.com/brewsci/homebrew-bio - repository of bioinformatic software for the [Homebrew / Linuxbrew](https://brew.sh/) package managers
+- https://www.bioconductor.org/ - bioinformatic packages and versioned data in R
 
 ### population & evolutionary genomics
 
