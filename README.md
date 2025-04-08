@@ -31,14 +31,14 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 - [Speciation genomics](https://speciationgenomics.github.io) - tutorials covering around 70% of my PhD, too bad I found the page after my defense
 - [Evomics.org](https://evomics.org) - portal with materials from years of summer schools on evolutionary genomics
 - [The G-cat](https://theg-cat.com) - genetic theory in nice digestible articles
-- [Introduction to the Command Line for Genomics](https://datacarpentry.github.io/shell-genomics/) (a course by Data Carpentry)
-- [Population genetics and genomics in R](https://grunwaldlab.github.io/Population_Genetics_in_R/)
+- [Introduction to the Command Line for Genomics](https://datacarpentry.github.io/shell-genomics/) - a course by Data Carpentry
+- [Population genetics and genomics in R](https://grunwaldlab.github.io/Population_Genetics_in_R/) - especially great for non-model taxa
 
 ### data skills
 
-- [Bioinformatics Data Skills](https://vincebuffalo.com/book/) (book by Vince Buffalo)
-- [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/) (free book by Jeroen Janssens)
-- [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) (free book at Wikibooks)
+- [Bioinformatics Data Skills](https://vincebuffalo.com/book/) - awesome book by Vince Buffalo
+- [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/) - great free book by Jeroen Janssens
+- [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) - free book at Wikibooks
 
 ## software tools
 
@@ -51,7 +51,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 
 ### population & evolutionary genomics
 
-- https://methodspopgen.com/ - overview of software tools for population and evolutionary genomics, described in a [review paper](https://onlinelibrary.wiley.com/doi/10.1111/mec.15989)
+- [MethodsPopGen.com](https://methodspopgen.com/) - overview of software tools for population and evolutionary genomics, described in a [review paper](https://onlinelibrary.wiley.com/doi/10.1111/mec.15989)
 - [PLINK2](https://www.cog-genomics.org/plink2/) - toolkit for population genomics and GWAS
 - [EIGENSOFT](https://github.com/DReichLab/EIG) - tools for analysis of populations, including population stratification and SmartPCA
 - [ADMIXTOOLS2](https://uqrmaie1.github.io/admixtools/index.html) - R package with reimplementation of the original ADMIXTOOLS, with higher performance and easy scripting interface, plus a GUI webapp
@@ -65,6 +65,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 - [stdpopsim](https://github.com/popsim-consortium/stdpopsim) - library of standard population genetic simulation models
 
 ### bioinformatic formats
+While genotype matrices are the dominant data type in evomics, other data types and formats appear as well - from FASTA reference sequences or alignments, to genomic features and annotations.
 
 - [HTSlib](https://www.htslib.org/) - Umbrella project for Samtools and related packages
   - [Samtools](https://www.htslib.org/doc/samtools.html) for SAM/BAM alignments
@@ -84,3 +85,4 @@ There is plenty of tabular data in bioinformatics, from the well-known formats t
 - [csvtk](https://bioinf.shenwei.me/csvtk/) - fast CSV/TSV toolkit in Go, with many features and simple plot functions
 - [xsv](https://github.com/BurntSushi/xsv) - fast CSV/TSV toolkit in Rust
 - [visidata](https://www.visidata.org/) - terminal spreadsheet app
+- [grabix](https://github.com/arq5x/grabix) - like tabix but for non-bio data (indexing by line numbers instead of genomic positions); fast slicing / random sampling of large compressed tabular data
