@@ -31,15 +31,18 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 - [Speciation genomics](https://speciationgenomics.github.io) - tutorials covering around 70% of my PhD, too bad I found the page after my defense
   - [their github](https://github.com/speciationgenomics) includes example data, code, presentations, and other material
 - [Evomics.org](https://evomics.org) - portal with materials from years of summer schools on evolutionary genomics
-- [The G-cat](https://theg-cat.com) - genetic theory in nice digestible articles
+- [The Genetics Cat](https://theg-cat.com) - genetic theory in nice digestible articles
 - [Introduction to the Command Line for Genomics](https://datacarpentry.github.io/shell-genomics/) - a course by Data Carpentry
 - [Population genetics and genomics in R](https://grunwaldlab.github.io/Population_Genetics_in_R/) - especially great for non-model taxa
+- [Statistical Population Genomics](https://link.springer.com/book/10.1007/978-1-0716-0199-0) - free book on advanced topics in population genomics, by Springer Nature publishing
+- [Evolutionary Genomics](https://link.springer.com/book/10.1007/978-1-4939-9074-0) - free book on advanced topics in evolutionary genomics, by Springer Nature publishing
 
 ### data skills
 
 - [Bioinformatics Data Skills](https://vincebuffalo.com/book/) - awesome book by Vince Buffalo
 - [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/) - great free book by Jeroen Janssens
 - [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) - free book at Wikibooks
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - great free book on best practices in visualizing data, by C.O. Wilke
 
 ## software tools
 
