@@ -49,6 +49,9 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 - [Conda-forge](https://conda-forge.org/) - channel of scientific software, for the conda / mamba package managers
 - [Homebrew Bio](https://github.com/brewsci/homebrew-bio) - repository of bioinformatic software for the [Homebrew / Linuxbrew](https://brew.sh/) package managers
 - [Bioconductor](https://www.bioconductor.org/) - bioinformatic packages and versioned data in R
+- [R Task Views](https://cran.r-project.org/web/views/) - curated lists of R packages for many fields of study
+  - [Omics](https://cran.r-project.org/web/views/Omics.html)
+  - [Phylogenetics](https://cran.r-project.org/web/views/Phylogenetics.html)
 
 ### population & evolutionary genomics
 
@@ -68,15 +71,16 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 ### bioinformatic formats
 While genotype matrices are the dominant data type in evomics, other data types and formats appear as well - from FASTA reference sequences or alignments, to genomic features and annotations.
 
-- [HTSlib](https://www.htslib.org/) - Umbrella project for Samtools and related packages
-  - [Samtools](https://www.htslib.org/doc/samtools.html) for SAM/BAM alignments
-  - [Bcftools](https://www.htslib.org/doc/bcftools.html) for variant data in VCF/BCF formats
-  - [Bgzip](https://www.htslib.org/doc/bgzip.html) - Block gzip allows fast random access to compressed files
-  - [Tabix](https://www.htslib.org/doc/tabix.html) - indexing of files compressed with Bgzip.
-- [SeqKit](https://bioinf.shenwei.me/seqkit/) - for efficient manipulation of FASTA/FASTQ formats
-- [SeqTK](https://github.com/lh3/seqtk) - for efficient manipulation of FASTA/FASTQ formats
+- [htslib](https://www.htslib.org/) - Umbrella project for Samtools and related packages
+  - [samtools](https://www.htslib.org/doc/samtools.html) for SAM/BAM alignments
+  - [bcftools](https://www.htslib.org/doc/bcftools.html) for variant data in VCF/BCF formats
+  - [bgzip](https://www.htslib.org/doc/bgzip.html) - Block gzip allows fast random access to compressed files
+  - [tabix](https://www.htslib.org/doc/tabix.html) - indexing of files compressed with Bgzip.
+- [bedtools](https://github.com/arq5x/bedtools2) - genome aritmetics: set operations like subsetting, unions, etc, using genomic coordinates
+- [seqkit](https://bioinf.shenwei.me/seqkit/) - for efficient manipulation of FASTA/FASTQ formats
+- [seqtk](https://github.com/lh3/seqtk) - for efficient manipulation of FASTA/FASTQ formats
 - [bioawk](https://github.com/lh3/bioawk) - extension of the AWK language with support for common bioinformatic formats and compressed data
-- [Seqmagick](https://seqmagick.readthedocs.io/) - a kickass little utility built in the spirit of imagemagick to expose the file format conversion in Biopython in a convenient way. Instead of having a big mess of scripts, there is one that takes arguments.
+- [seqmagick](https://seqmagick.readthedocs.io/) - a kickass little utility built in the spirit of imagemagick to expose the file format conversion in Biopython in a convenient way. Instead of having a big mess of scripts, there is one that takes arguments.
 
 ### tabular data
 There is plenty of tabular data in bioinformatics, from the well-known formats to all kinds of metadata. Many tools were developed to process generic tabular data.
@@ -84,6 +88,16 @@ There is plenty of tabular data in bioinformatics, from the well-known formats t
 - [structured text tools](https://github.com/dbohdan/structured-text-tools) - overview of tools for processing structured text
 - [Miller](https://miller.readthedocs.io/) - Miller is like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed
 - [csvtk](https://bioinf.shenwei.me/csvtk/) - fast CSV/TSV toolkit in Go, with many features and simple plot functions
-- [xsv](https://github.com/BurntSushi/xsv) - fast CSV/TSV toolkit in Rust
+- [xan](https://github.com/medialab/xan) - fast CSV/TSV toolkit in Rust, originally a fork of [xsv](https://github.com/BurntSushi/xsv) (now discontinued)
 - [visidata](https://www.visidata.org/) - terminal spreadsheet app
 - [grabix](https://github.com/arq5x/grabix) - like tabix but for non-bio data (indexing by line numbers instead of genomic positions); fast slicing / random sampling of large compressed tabular data
+
+### productivity
+Tools to enhance productivity and increase efficiency.
+
+- [GNU parallel](https://www.gnu.org/software/parallel/) - easily run your commands in parallel, without loops
+  - [sem](https://www.gnu.org/software/parallel/sem.html) - when you _want_ your loops to run in parallel (part of GNU parallel)
+- [snakemake](https://snakemake.github.io/) - modern twist on popular build tool `make`, with focus on data science and bioinformatics
+- [pigz](https://zlib.net/pigz/) - parallel implementation of gzip - (un)compress your data faster
+- [micro](https://micro-editor.github.io/) - modern editor for your terminal, with perfect blend of easy use and powerful features
+- [tmux](https://github.com/tmux/tmux/wiki) - popular terminal multiplexer, for easier multitasking at remote servers and HPCs
