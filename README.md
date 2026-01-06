@@ -58,7 +58,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 
 ### population & evolutionary genomics
 
-- [MethodsPopGen.com](https://methodspopgen.com/) - overview of software tools for population and evolutionary genomics, described in a [review paper](https://onlinelibrary.wiley.com/doi/10.1111/mec.15989)
+- [MethodsPopGen.com](https://web.archive.org/web/20241007205832/https://methodspopgen.com/) - overview of software tools for population and evolutionary genomics, described in a [review paper](https://onlinelibrary.wiley.com/doi/10.1111/mec.15989)
 - [PLINK2](https://www.cog-genomics.org/plink2/) - toolkit for population genomics and GWAS
 - [EIGENSOFT](https://github.com/DReichLab/EIG) - tools for analysis of populations, including population stratification and SmartPCA
 - [ADMIXTOOLS2](https://uqrmaie1.github.io/admixtools/index.html) - R package with reimplementation of the original ADMIXTOOLS, with higher performance and easy scripting interface, plus a GUI webapp
