@@ -42,6 +42,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 - [Bioinformatics Data Skills](https://vincebuffalo.com/book/) - awesome book by Vince Buffalo
 - [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl/) - great free book by Jeroen Janssens
 - [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) - free book at Wikibooks
+- [R for Data Science](https://r4ds.hadley.nz/) - popular free book on R and data science by Hadley Wickham et al.
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - great free book on best practices in visualizing data, by C.O. Wilke
 
 ## software tools
