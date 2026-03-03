@@ -49,7 +49,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 
 ### software repositories
 
-- [Bioconda](https://bioconda.github.io/) - channel of bioinformatic software, for the [conda](https://docs.anaconda.com/miniconda/) / [mamba](https://mamba.readthedocs.io/en/latest/index.html) package managers
+- [Bioconda](https://bioconda.github.io/) - channel of bioinformatic software, for the [conda](https://docs.conda.io/en/latest/) / [mamba](https://mamba.readthedocs.io/en/latest/index.html) package managers
 - [Conda-forge](https://conda-forge.org/) - channel of scientific software, for the conda / mamba package managers
 - [Homebrew Bio](https://github.com/brewsci/homebrew-bio) - repository of bioinformatic software for the [Homebrew / Linuxbrew](https://brew.sh/) package managers
 - [Bioconductor](https://www.bioconductor.org/) - bioinformatic packages and versioned data in R
@@ -71,6 +71,7 @@ Helpful tutorials, blogs, and books on topics in evomics, bioinformatics, and da
 - [SLiM](https://messerlab.org/slim/) - forward-time simulator for spatial models of evolution
 - [slendr](https://www.slendr.net/) - R interface to msprime and SLiM simulators, with support for spatial and non-spatial models
 - [stdpopsim](https://github.com/popsim-consortium/stdpopsim) - library of standard population genetic simulation models
+- [tskit](https://tskit.dev/) - manipulation of tree sequence format, produced by the simulators msprime and SLiM
 
 ### bioinformatic formats
 While genotype matrices are the dominant data type in evomics, other data types and formats appear as well - from FASTA reference sequences or alignments, to genomic features and annotations.
